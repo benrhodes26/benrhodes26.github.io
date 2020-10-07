@@ -1,12 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV]('http://benrhodes26.github.io/files/CV.pdf')"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-[Curriculum Vitae]('http://benrhodes26.github.io/files/CV.pdf')
