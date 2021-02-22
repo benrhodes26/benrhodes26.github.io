@@ -1,7 +1,7 @@
 ---
 title: "Telescoping Density-Ratio Estimation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/tre
 excerpt: 'We propose a new framework, Telescoping Density-ratio Estimation (TRE), that enables the estimation of ratios between highly dissimilar densities in high-dimensional spaces.'
 date: 2020-06-22
 venue: 'Advances in Neural Information Processing Systems - Spotlight (top 4% of submissions)'
