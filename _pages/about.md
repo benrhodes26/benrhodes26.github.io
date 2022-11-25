@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning PhD student at the [School of Informatics Edinburgh](https://www.ed.ac.uk/informatics), supervised by [Michael Gutmann](https://michaelgutmann.github.io/).
+I have just submitted my PhD thesis in Machine Learning at [School of Informatics Edinburgh](https://www.ed.ac.uk/informatics), where I was supervised by [Michael Gutmann](https://michaelgutmann.github.io/).
 
-I am interested in leveraging deep neural networks to perform various types of unsupervised probabilistic inference. Specific research interests include: contrastive representation learning, density-estimation and energy-based modelling.
+I am interested in leveraging deep neural networks to perform various types of unsupervised probabilistic inference. My publications focused on learning and sampling deep energy-based models, but have broader applicability to areas such as mutual information estimation and Bayesian inference.
