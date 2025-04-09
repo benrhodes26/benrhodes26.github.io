@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Benjamin Rhodes"
 title_separator          : "-"
 name                     : &name "Benjamin Rhodes"
-description              : &description "Machine Learning PhD researcher"
+description              : &description "Senior Researcher at Orbital Materials, ML PhD from University of Edinburgh"
 url                      : https://benrhodes26.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "benrhodes26/benrhodes26.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Rhodes"
-  avatar           : "me.jpg"
-  bio              : "Machine Learning PhD student at Edinburgh University. Interested in deep probabilistic modelling."
-  location         : "Edinburgh, UK"
+  avatar           : "me.png"
+  bio              : "Senior Researcher at Orbital Materials. PhD in ML from the University of Edinburgh."
+  location         : "London, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=DNKDL-oAAAAJ&hl=en"
-  email            : "ben.rhodes@ed.ac.uk"
+  email            : "benjamin.rhodes26@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
